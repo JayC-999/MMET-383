@@ -1,0 +1,10 @@
+﻿Order Form #,Total Number of parts,Type of parts,Total Cost,Who it was sold to,Who sold it
+0000-1,100,Temperature sensor,500,Company A,Alex
+0000-2,50,Pressure sensor,300,Company B,Alex
+0000-3,80,Pressure sensor,480,Company C,Tim
+0000-4,15,Optical sensor,30,Company C,Jose
+0000-5,80,Proximity sensor,640,Company D,Tim
+0000-6,110,Human-machine interface,275,Company E,Tim
+0000-7,75,Limit swiches,225,Company E,Jose
+0000-8,30,Optical sensor,60,Company F,Alex
+0000-9,85,Temperature sensor,425,Company F,Tim
